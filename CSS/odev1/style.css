@@ -1,0 +1,25 @@
+.container{
+    margin: 0 auto;
+    width: 90%;
+    height: auto;
+    text-align: center;
+}
+.container h1{
+    color: red;
+}
+ol{
+
+    list-style: none;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+ul li{
+    padding: 0 10px;
+}
+
+
+h3{
+    color: burlywood;
+}
